@@ -1,0 +1,7 @@
+project: rnshah9/libbsc
+target: libbsc
+tests:
+  - file://test
+
+cmds:
+  - cmd: /repo/bsc e @@ out
