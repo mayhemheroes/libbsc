@@ -1,5 +1,5 @@
 project: rnshah9/libbsc
-target: libbsc
+target: bsc
 tests:
   - file://test
 
