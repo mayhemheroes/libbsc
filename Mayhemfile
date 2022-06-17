@@ -1,6 +1,6 @@
-project: rnshah9/libbsc
+project: libbsc
 target: bsc
-tests:
+testsuite:
   - file://test
 
 cmds:
