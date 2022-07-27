@@ -4,4 +4,4 @@ testsuite:
   - file://test
 
 cmds:
-  - cmd: /repo/bsc e @@ out
+  - cmd: /install/bin/bsc e @@ out
