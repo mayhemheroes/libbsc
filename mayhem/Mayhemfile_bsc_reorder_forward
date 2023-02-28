@@ -1,0 +1,5 @@
+project: libbsc
+target: bsc-reorder-forward
+
+cmds:
+  - cmd: /fuzz_bsc_reorder_forward
