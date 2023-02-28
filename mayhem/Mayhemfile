@@ -1,0 +1,7 @@
+project: libbsc
+target: bsc
+testsuite:
+  - file://test
+
+cmds:
+  - cmd: /install/usr/bin/bsc e @@ out
